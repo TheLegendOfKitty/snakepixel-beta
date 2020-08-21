@@ -1,6 +1,0 @@
-README.md
-setup.py
-snakepixel_beta.egg-info/PKG-INFO
-snakepixel_beta.egg-info/SOURCES.txt
-snakepixel_beta.egg-info/dependency_links.txt
-snakepixel_beta.egg-info/top_level.txt

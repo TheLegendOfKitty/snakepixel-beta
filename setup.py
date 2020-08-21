@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="snakepixel-beta",
-    version="0.1.2",
+    version="0.1.4",
     author="TheLegendOfKitty",
     description="A python wrapper for the hypixel api",
     long_description=long_description,

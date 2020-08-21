@@ -1,9 +1,0 @@
-README.md
-setup.py
-snakepixel/__init__.py
-snakepixel/snakepixelerror.py
-snakepixel/snakepixelmethods.py
-snakepixel_beta_TheLegendOfKitty.egg-info/PKG-INFO
-snakepixel_beta_TheLegendOfKitty.egg-info/SOURCES.txt
-snakepixel_beta_TheLegendOfKitty.egg-info/dependency_links.txt
-snakepixel_beta_TheLegendOfKitty.egg-info/top_level.txt

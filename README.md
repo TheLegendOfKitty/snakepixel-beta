@@ -1,1 +1,6 @@
-https://github.com/TheLegendOfKitty/snakepixel
+# Installation
+```pip install snakepixel-beta```
+# Documentation
+
+# Dependencies
+```pip install requests```

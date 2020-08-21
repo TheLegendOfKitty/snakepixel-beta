@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: snakepixel-beta
+Version: 0.1
+Summary: A python wrapper for the hypixel api
+Home-page: https://github.com/TheLegendOfKitty/snakepixel
+Author: TheLegendOfKitty
+License: UNKNOWN
+Description: https://github.com/TheLegendOfKitty/snakepixel
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

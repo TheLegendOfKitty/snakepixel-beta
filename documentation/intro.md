@@ -160,7 +160,7 @@ Example usage:
 ```python
 key = "YOURAPIKEY"
 uuid = "mojang api stuff"
-print(snakeapisb.profile_with_uuid(key))
+print(snakeapisb.profile_with_uuid(key, uuid))
 ```
 Will raise ```snakepixelexceptions.InvalidUUID``` if the uuid is invalid.
 
